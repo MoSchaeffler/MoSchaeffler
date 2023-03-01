@@ -6,8 +6,8 @@ Research interest:
 
 - Molecular Dynamics (MD) simulations
 - Intrisically Disordered Proteins
-- Energy Landscapes from MD simulations
-- amyloid aggregation
+- Energy Landscapes of biological systems from MD simulations
+- Amyloid aggregation
 
 CV:
 
